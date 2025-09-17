@@ -20,10 +20,10 @@ A real-time gaze-controlled virtual keyboard using OpenCV and dlib facial landma
 
 
 eye-tracker/
-├── Keyboard_v2.py   # Keyboard rendering, key sets (EN/AR/Symbols/Numbers), drawing helpers
-├── main_v2.py       # Main gaze-tracking loop--> has the web cam configuration and the main code of algorithm that determine if person look left or right or blinking
-├── text_box.py      # Text display GUI (shows typed text in a separate window)
-└── README.md
+- ├── Keyboard_v2.py   # Keyboard rendering, key sets (EN/AR/Symbols/Numbers), drawing helpers
+- ├── main_v2.py       # Main gaze-tracking loop--> has the web cam configuration and the main code of algorithm that determine if person look left or right or blinking
+- ├── text_box.py      # Text display GUI (shows typed text in a separate window)
+- └── README.md
 
 
 ## Requirements
