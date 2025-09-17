@@ -157,4 +157,4 @@ center_ratio = [right_ratio_down_from, left_ratio_start_from]
 - [Ahmed Yasser](https://github.com/ahmed-yasser-taha) (Project Manager & Team Leader)
 - [Ismail Elyan](https://github.com/ismaillalyaan) (Technical Lead)
 - [Ismail Al-hetimi](https://github.com/IsmailMohamed010) (Market Analysis)
-- [Kirillus Emad](https://github.com/Kirillus-Emad) (Software Engineer)
+- [Kirillus Emad](https://github.com/Kirillus-Emad) (AI Engineer)
