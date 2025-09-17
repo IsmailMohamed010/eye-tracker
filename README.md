@@ -96,7 +96,7 @@ Press Esc in the Frame window to exit and you will see only text box of what you
 - Special keys:
   - CAPS: Toggle uppercase for English
   - ENG / ARB / SYB / NUM: Switch layouts
-  - >> / <<: Next/previous page within a layout
+  - (>>),(<<): Next/previous page within a layout
   - <--: Backspace
   - __: Space
 
